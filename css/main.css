@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "franklin-gothic-urw", "Helvetica", sans-serif; }
+
+.site-header {
+  border-bottom: 1px solid #e6e6e6;
+  padding: 2rem; }
+
+.site-title {
+  font-size: 1.3rem; }
+
+.site-footer {
+  text-align: center;
+  font-size: .8rem; }
+
+.site-content {
+  display: flex; }
+  .site-content section {
+    padding: 2rem; }
+  .site-content h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 600; }
+    .site-content h2 em {
+      background: #e6e6e6;
+      font-style: normal; }
+
+.filters {
+  border-right: 1px solid #e6e6e6;
+  flex-basis: 20%; }
+  .filters a {
+    display: block;
+    color: #a0a0a0;
+    font-size: .9rem;
+    margin-bottom: .5rem;
+    text-decoration: none; }
+  .filters nav {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dotted #e6e6e6; }
+
+.map {
+  display: flex; }
+  .map .copy {
+    flex-basis: 40%; }
+    .map .copy p {
+      margin-bottom: 1rem; }
+  .map .map-svg {
+    flex-basis: 700px; }
+  .map .tooltip {
+    position: fixed;
+    pointer-events: none;
+    background: white;
+    padding: 1rem;
+    border: 1px solid #282828;
+    border-radius: 2px;
+    display: none;
+    width: 18rem; }
+    .map .tooltip em {
+      font-family: "Lucida Console", monospace;
+      font-style: normal;
+      font-weight: 500;
+      color: #757575; }
+    .map .tooltip:after {
+      content: '';
+      width: 10px;
+      height: 10px;
+      position: absolute;
+      bottom: -5px;
+      left: calc(50% - 5px);
+      border-right: 1px solid #282828;
+      border-bottom: 1px solid #282828;
+      display: block;
+      background: white;
+      transform: rotate(45deg); }
+    .map .tooltip h3 {
+      color: #282828;
+      margin-bottom: .25rem;
+      text-transform: capitalize; }
+
+.map[data-tooltip-active='true'] .tooltip {
+  display: block; }
+
+svg {
+  font-family: "Lucida Console", monospace;
+  font-weight: 500; }
+  svg * {
+    shape-rendering: geometricPrecision;
+    text-rendering: optimizeLegibility; }
+
+.axis path {
+  fill: none;
+  stroke: #e6e6e6;
+  stroke-width: 1px; }
+.axis text {
+  fill: #282828;
+  font-size: 12px; }
+
+.legend text {
+  font-size: 11px; }
+
+.line, .legend line {
+  fill: none;
+  stroke-width: 3px;
+  stroke: #e6e6e6; }
+
+.blackTotal path, .blackTotal line {
+  stroke: #00A1FF; }
+.blackTotal circle, .blackTotal text {
+  fill: #00A1FF; }
+
+.whiteTotal path, .whiteTotal line {
+  stroke: #FFD240; }
+.whiteTotal circle, .whiteTotal text {
+  fill: #FFD240; }
+
+.difference line {
+  stroke: #282828;
+  stroke-width: 1px;
+  stroke-dasharray: 2,3; }
+.difference text {
+  font-size: 14px; }
+
+circle {
+  stroke: white;
+  stroke-width: 2px;
+  fill: #e6e6e6; }
+
+.map path {
+  fill: #e6e6e6;
+  stroke: white;
+  stroke-width: .5px; }
+  .map path[style='undefined'] {
+    fill: red !important; }
+  .map path:hover {
+    opacity: .8;
+    cursor: pointer; }
+
+/*# sourceMappingURL=main.css.map */

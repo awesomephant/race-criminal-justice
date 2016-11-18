@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: $font-sans;
+}
+
+.site-header {
+    border-bottom: 1px solid $lightgray;
+    padding: 2rem;
+}
+
+.site-title {
+    font-size: 1.3rem;
+}
+
+.site-footer {
+    text-align: center;
+    font-size: .8rem;
+}
+
+.site-content {
+    display: flex;
+
+    section {
+        padding: 2rem;
+    }
+
+    h2 {
+        margin-bottom: 1rem;
+        font-size: 2rem;
+        font-weight: 600;
+        em {
+            background: $lightgray;
+            font-style: normal;
+        }
+    }
+}
+
+.filters {
+    border-right: 1px solid $lightgray;
+    flex-basis: 20%;
+
+    a {
+        display: block;
+        color: $gray;
+        font-size: .9rem;
+        margin-bottom: .5rem;
+        text-decoration: none;
+
+    }
+
+    nav {
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px dotted $lightgray;
+    }
+}
+
+.map {
+    display: flex;
+    .copy {
+        flex-basis: 40%;
+        p {
+            margin-bottom: 1rem;
+        }
+    }
+    .map-svg {
+        flex-basis: 700px;
+    }
+
+    .tooltip {
+        position: fixed;
+        pointer-events: none;
+        background: white;
+        padding: 1rem;
+        border: 1px solid $black;
+        border-radius: 2px;
+        display: none;
+        width: 18rem;
+        em {
+            font-family: $font-mono;
+            font-style: normal;
+            font-weight: 500;
+            color: lighten($black, 30);
+        }
+        &:after {
+            content: '';
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            bottom: -5px;
+            left: calc(50% - 5px);
+            border-right: 1px solid $black;
+            border-bottom: 1px solid $black;
+            display: block;
+            background: white;
+            transform: rotate(45deg);
+        }
+        h3 {
+            color: $black;
+            margin-bottom: .25rem;
+            text-transform: capitalize;
+        }
+    }
+}
+
+.map[data-tooltip-active='true'] .tooltip {
+    display: block;
+}

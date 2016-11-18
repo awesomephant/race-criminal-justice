@@ -1,0 +1,1565 @@
+[{
+    "year": "2008",
+    "data": {
+        "avon-and-somerset": {
+            "whiteTotal": "5.7",
+            "blackTotal": "33.3",
+            "asianTotal": "4.4",
+            "mixedTotal": "15.7",
+            "total": "8.3"
+        },
+        "bedfordshire": {
+            "whiteTotal": "6.6",
+            "blackTotal": "19.2",
+            "asianTotal": "10.0",
+            "mixedTotal": "28.8",
+            "total": "8.4"
+        },
+        "cambridgeshire": {
+            "whiteTotal": "14.2",
+            "blackTotal": "29.1",
+            "asianTotal": "16.7",
+            "mixedTotal": "30.7",
+            "total": "14.9"
+        },
+        "cheshire": {
+            "whiteTotal": "5.9",
+            "blackTotal": "16.1",
+            "asianTotal": "4.4",
+            "mixedTotal": "6.9",
+            "total": "6.0"
+        },
+        "cleveland": {
+            "whiteTotal": "19.1",
+            "blackTotal": "13.9",
+            "asianTotal": "9.6",
+            "mixedTotal": "15.7",
+            "total": "19.6"
+        },
+        "cumbria": {
+            "whiteTotal": "19.0",
+            "blackTotal": "9.7",
+            "asianTotal": "26.0",
+            "mixedTotal": "9.5",
+            "total": "19.1"
+        },
+        "derbyshire": {
+            "whiteTotal": "8.5",
+            "blackTotal": "26.4",
+            "asianTotal": "11.7",
+            "mixedTotal": "22.0",
+            "total": "9.1"
+        },
+        "devon-&-cornwall": {
+            "whiteTotal": "13.9",
+            "blackTotal": "25.7",
+            "asianTotal": "6.5",
+            "mixedTotal": "15.6",
+            "total": "14.7"
+        },
+        "dorset": {
+            "whiteTotal": "11.3",
+            "blackTotal": "79.4",
+            "asianTotal": "11.5",
+            "mixedTotal": "27.9",
+            "total": "12.1"
+        },
+        "durham": {
+            "whiteTotal": "15.0",
+            "blackTotal": "4.0",
+            "asianTotal": "3.1",
+            "mixedTotal": "2.6",
+            "total": "14.7"
+        },
+        "dyfed-powys": {
+            "whiteTotal": "15.5",
+            "blackTotal": "21.6",
+            "asianTotal": "10.9",
+            "mixedTotal": "31.9",
+            "total": "15.6"
+        },
+        "essex": {
+            "whiteTotal": "7.3",
+            "blackTotal": "22.6",
+            "asianTotal": "8.4",
+            "mixedTotal": "18.6",
+            "total": "7.8"
+        },
+        "gloucestershire": {
+            "whiteTotal": "10.0",
+            "blackTotal": "31.8",
+            "asianTotal": "10.4",
+            "mixedTotal": "28.1",
+            "total": "10.4"
+        },
+        "greater-manchester": {
+            "whiteTotal": "19.6",
+            "blackTotal": "65.9",
+            "asianTotal": "26.9",
+            "mixedTotal": "54.0",
+            "total": "21.6"
+        },
+        "gwent": {
+            "whiteTotal": "13.7",
+            "blackTotal": "97.4",
+            "asianTotal": "36.6",
+            "mixedTotal": "33.4",
+            "total": "14.4"
+        },
+        "hampshire": {
+            "whiteTotal": "11.7",
+            "blackTotal": "66.6",
+            "asianTotal": "16.0",
+            "mixedTotal": "33.2",
+            "total": "13.0"
+        },
+        "hertfordshire": {
+            "whiteTotal": "11.2",
+            "blackTotal": "40.3",
+            "asianTotal": "17.7",
+            "mixedTotal": "38.5",
+            "total": "12.6"
+        },
+        "humberside": {
+            "whiteTotal": "14.3",
+            "blackTotal": "17.8",
+            "asianTotal": "9.4",
+            "mixedTotal": "14.7",
+            "total": "14.4"
+        },
+        "kent": {
+            "whiteTotal": "10.1",
+            "blackTotal": "32.0",
+            "asianTotal": "11.0",
+            "mixedTotal": "18.6",
+            "total": "10.6"
+        },
+        "lancashire": {
+            "whiteTotal": "15.9",
+            "blackTotal": "25.7",
+            "asianTotal": "22.0",
+            "mixedTotal": "32.5",
+            "total": "16.4"
+        },
+        "leicestershire": {
+            "whiteTotal": "20.4",
+            "blackTotal": "89.0",
+            "asianTotal": "29.6",
+            "mixedTotal": "70.3",
+            "total": "24.5"
+        },
+        "lincolnshire": {
+            "whiteTotal": "19.1",
+            "blackTotal": "28.6",
+            "asianTotal": "8.5",
+            "mixedTotal": "9.9",
+            "total": "19.1"
+        },
+        "london": {
+            "whiteTotal": "36.3",
+            "blackTotal": "164.2",
+            "asianTotal": "55.5",
+            "mixedTotal": "66.9",
+            "total": "60.5"
+        },
+        "merseyside": {
+            "whiteTotal": "35.1",
+            "blackTotal": "74.1",
+            "asianTotal": "17.9",
+            "mixedTotal": "34.2",
+            "total": "35.5"
+        },
+        "norfolk": {
+            "whiteTotal": "10.9",
+            "blackTotal": "37.3",
+            "asianTotal": "7.7",
+            "mixedTotal": "22.2",
+            "total": "11.3"
+        },
+        "north-wales": {
+            "whiteTotal": "18.9",
+            "blackTotal": "56.0",
+            "asianTotal": "14.8",
+            "mixedTotal": "19.1",
+            "total": "19.0"
+        },
+        "north-yorkshire": {
+            "whiteTotal": "13.0",
+            "blackTotal": "13.5",
+            "asianTotal": "16.3",
+            "mixedTotal": "13.9",
+            "total": "13.7"
+        },
+        "northamptonshire": {
+            "whiteTotal": "21.7",
+            "blackTotal": "73.9",
+            "asianTotal": "26.7",
+            "mixedTotal": "62.4",
+            "total": "23.4"
+        },
+        "northumbria": {
+            "whiteTotal": "23.2",
+            "blackTotal": "19.3",
+            "asianTotal": "14.4",
+            "mixedTotal": "9.3",
+            "total": "22.8"
+        },
+        "nottinghamshire": {
+            "whiteTotal": "5.4",
+            "blackTotal": "27.6",
+            "asianTotal": "7.0",
+            "mixedTotal": "19.4",
+            "total": "6.6"
+        },
+        "south-wales": {
+            "whiteTotal": "13.8",
+            "blackTotal": "96.5",
+            "asianTotal": "20.3",
+            "mixedTotal": "31.9",
+            "total": "14.6"
+        },
+        "south-yorkshire": {
+            "whiteTotal": "16.4",
+            "blackTotal": "52.3",
+            "asianTotal": "29.8",
+            "mixedTotal": "37.4",
+            "total": "18.1"
+        },
+        "staffordshire": {
+            "whiteTotal": "17.5",
+            "blackTotal": "47.0",
+            "asianTotal": "29.2",
+            "mixedTotal": "45.8",
+            "total": "18.3"
+        },
+        "suffolk": {
+            "whiteTotal": "8.0",
+            "blackTotal": "34.0",
+            "asianTotal": "6.9",
+            "mixedTotal": "25.3",
+            "total": "8.8"
+        },
+        "surrey": {
+            "whiteTotal": "15.7",
+            "blackTotal": "36.9",
+            "asianTotal": "16.2",
+            "mixedTotal": "25.9",
+            "total": "17.0"
+        },
+        "sussex": {
+            "whiteTotal": "16.9",
+            "blackTotal": "53.2",
+            "asianTotal": "25.9",
+            "mixedTotal": "37.3",
+            "total": "18.7"
+        },
+        "thames-valley": {
+            "whiteTotal": "11.1",
+            "blackTotal": "41.7",
+            "asianTotal": "27.2",
+            "mixedTotal": "44.6",
+            "total": "14.3"
+        },
+        "warwickshire": {
+            "whiteTotal": "7.6",
+            "blackTotal": "36.0",
+            "asianTotal": "10.6",
+            "mixedTotal": "27.7",
+            "total": "8.3"
+        },
+        "west-mercia": {
+            "whiteTotal": "9.3",
+            "blackTotal": "36.8",
+            "asianTotal": "18.8",
+            "mixedTotal": "28.4",
+            "total": "10.1"
+        },
+        "west-midlands": {
+            "whiteTotal": "7.8",
+            "blackTotal": "37.9",
+            "asianTotal": "20.4",
+            "mixedTotal": "27.0",
+            "total": "12.6"
+        },
+        "west-yorkshire": {
+            "whiteTotal": "23.1",
+            "blackTotal": "52.9",
+            "asianTotal": "37.6",
+            "mixedTotal": "52.0",
+            "total": "26.0"
+        },
+        "wiltshire": {
+            "whiteTotal": "7.1",
+            "blackTotal": "33.2",
+            "asianTotal": "8.4",
+            "mixedTotal": "14.9",
+            "total": "7.5"
+        },
+        "e&w---met": {
+            "whiteTotal": "14.2",
+            "blackTotal": "44.5",
+            "asianTotal": "22.0",
+            "mixedTotal": "32.5",
+            "total": "15.6"
+        },
+        "england-and-wales": {
+            "whiteTotal": "16.5",
+            "blackTotal": "108.5",
+            "asianTotal": "33.5",
+            "mixedTotal": "42.5",
+            "total": "21.7"
+        }
+    }
+},
+{
+    "year": "2009",
+    "data": {
+        "avon-and-somerset": {
+            "whiteTotal": "7.9",
+            "blackTotal": "72.4",
+            "asianTotal": "9.1",
+            "mixedTotal": "25.7",
+            "total": "12.7"
+        },
+        "bedfordshire": {
+            "whiteTotal": "11.6",
+            "blackTotal": "52.2",
+            "asianTotal": "23.8",
+            "mixedTotal": "47.8",
+            "total": "15.6"
+        },
+        "cambridgeshire": {
+            "whiteTotal": "7.7",
+            "blackTotal": "14.2",
+            "asianTotal": "10.1",
+            "mixedTotal": "11.2",
+            "total": "8.1"
+        },
+        "cheshire": {
+            "whiteTotal": "5.4",
+            "blackTotal": "13.2",
+            "asianTotal": "5.1",
+            "mixedTotal": "8.7",
+            "total": "5.5"
+        },
+        "cleveland": {
+            "whiteTotal": "23.8",
+            "blackTotal": "20.3",
+            "asianTotal": "13.8",
+            "mixedTotal": "13.1",
+            "total": "24.1"
+        },
+        "cumbria": {
+            "whiteTotal": "18.9",
+            "blackTotal": "13.5",
+            "asianTotal": "17.6",
+            "mixedTotal": "6.2",
+            "total": "19.2"
+        },
+        "derbyshire": {
+            "whiteTotal": "8.0",
+            "blackTotal": "24.9",
+            "asianTotal": "14.0",
+            "mixedTotal": "25.9",
+            "total": "8.6"
+        },
+        "devon-&-cornwall": {
+            "whiteTotal": "14.6",
+            "blackTotal": "25.5",
+            "asianTotal": "7.4",
+            "mixedTotal": "20.1",
+            "total": "15.3"
+        },
+        "dorset": {
+            "whiteTotal": "9.6",
+            "blackTotal": "54.5",
+            "asianTotal": "9.4",
+            "mixedTotal": "23.2",
+            "total": "10.1"
+        },
+        "durham": {
+            "whiteTotal": "9.7",
+            "blackTotal": "7.0",
+            "asianTotal": "2.5",
+            "mixedTotal": "3.6",
+            "total": "9.6"
+        },
+        "dyfed-powys": {
+            "whiteTotal": "22.2",
+            "blackTotal": "64.8",
+            "asianTotal": "33.6",
+            "mixedTotal": "29.5",
+            "total": "22.9"
+        },
+        "essex": {
+            "whiteTotal": "6.3",
+            "blackTotal": "19.5",
+            "asianTotal": "7.3",
+            "mixedTotal": "18.8",
+            "total": "7.0"
+        },
+        "gloucestershire": {
+            "whiteTotal": "11.4",
+            "blackTotal": "47.3",
+            "asianTotal": "12.1",
+            "mixedTotal": "30.8",
+            "total": "12.0"
+        },
+        "greater-manchester": {
+            "whiteTotal": "19.6",
+            "blackTotal": "79.2",
+            "asianTotal": "30.0",
+            "mixedTotal": "58.6",
+            "total": "22.1"
+        },
+        "gwent": {
+            "whiteTotal": "13.2",
+            "blackTotal": "90.9",
+            "asianTotal": "33.9",
+            "mixedTotal": "32.7",
+            "total": "13.9"
+        },
+        "hampshire": {
+            "whiteTotal": "13.6",
+            "blackTotal": "66.6",
+            "asianTotal": "18.9",
+            "mixedTotal": "35.7",
+            "total": "14.9"
+        },
+        "hertfordshire": {
+            "whiteTotal": "17.8",
+            "blackTotal": "58.5",
+            "asianTotal": "33.9",
+            "mixedTotal": "52.2",
+            "total": "20.2"
+        },
+        "humberside": {
+            "whiteTotal": "13.4",
+            "blackTotal": "22.5",
+            "asianTotal": "13.3",
+            "mixedTotal": "20.7",
+            "total": "14.0"
+        },
+        "kent": {
+            "whiteTotal": "10.6",
+            "blackTotal": "33.5",
+            "asianTotal": "10.7",
+            "mixedTotal": "20.6",
+            "total": "11.3"
+        },
+        "lancashire": {
+            "whiteTotal": "16.0",
+            "blackTotal": "31.5",
+            "asianTotal": "23.7",
+            "mixedTotal": "24.0",
+            "total": "16.6"
+        },
+        "leicestershire": {
+            "whiteTotal": "19.3",
+            "blackTotal": "76.4",
+            "asianTotal": "29.3",
+            "mixedTotal": "58.1",
+            "total": "23.2"
+        },
+        "lincolnshire": {
+            "whiteTotal": "21.6",
+            "blackTotal": "35.0",
+            "asianTotal": "13.1",
+            "mixedTotal": "19.3",
+            "total": "21.6"
+        },
+        "london": {
+            "whiteTotal": "46.9",
+            "blackTotal": "209.9",
+            "asianTotal": "70.7",
+            "mixedTotal": "93.4",
+            "total": "73.8"
+        },
+        "merseyside": {
+            "whiteTotal": "38.2",
+            "blackTotal": "81.8",
+            "asianTotal": "21.2",
+            "mixedTotal": "40.4",
+            "total": "38.6"
+        },
+        "norfolk": {
+            "whiteTotal": "14.8",
+            "blackTotal": "53.3",
+            "asianTotal": "14.5",
+            "mixedTotal": "33.1",
+            "total": "15.4"
+        },
+        "north-wales": {
+            "whiteTotal": "12.9",
+            "blackTotal": "53.4",
+            "asianTotal": "17.7",
+            "mixedTotal": "13.4",
+            "total": "13.0"
+        },
+        "north-yorkshire": {
+            "whiteTotal": "12.6",
+            "blackTotal": "19.1",
+            "asianTotal": "16.4",
+            "mixedTotal": "11.0",
+            "total": "13.3"
+        },
+        "northamptonshire": {
+            "whiteTotal": "18.0",
+            "blackTotal": "58.3",
+            "asianTotal": "19.9",
+            "mixedTotal": "56.4",
+            "total": "19.4"
+        },
+        "northumbria": {
+            "whiteTotal": "25.9",
+            "blackTotal": "23.6",
+            "asianTotal": "17.1",
+            "mixedTotal": "15.6",
+            "total": "25.5"
+        },
+        "nottinghamshire": {
+            "whiteTotal": "4.0",
+            "blackTotal": "21.4",
+            "asianTotal": "7.0",
+            "mixedTotal": "15.3",
+            "total": "4.9"
+        },
+        "south-wales": {
+            "whiteTotal": "14.9",
+            "blackTotal": "90.6",
+            "asianTotal": "16.1",
+            "mixedTotal": "25.0",
+            "total": "15.6"
+        },
+        "south-yorkshire": {
+            "whiteTotal": "21.5",
+            "blackTotal": "76.2",
+            "asianTotal": "41.2",
+            "mixedTotal": "55.3",
+            "total": "24.0"
+        },
+        "staffordshire": {
+            "whiteTotal": "10.2",
+            "blackTotal": "43.2",
+            "asianTotal": "23.4",
+            "mixedTotal": "31.9",
+            "total": "10.9"
+        },
+        "suffolk": {
+            "whiteTotal": "9.1",
+            "blackTotal": "28.6",
+            "asianTotal": "7.4",
+            "mixedTotal": "27.7",
+            "total": "9.7"
+        },
+        "surrey": {
+            "whiteTotal": "15.7",
+            "blackTotal": "39.1",
+            "asianTotal": "22.2",
+            "mixedTotal": "28.3",
+            "total": "16.8"
+        },
+        "sussex": {
+            "whiteTotal": "11.8",
+            "blackTotal": "37.6",
+            "asianTotal": "21.9",
+            "mixedTotal": "22.8",
+            "total": "13.3"
+        },
+        "thames-valley": {
+            "whiteTotal": "12.2",
+            "blackTotal": "47.0",
+            "asianTotal": "28.0",
+            "mixedTotal": "45.4",
+            "total": "15.5"
+        },
+        "warwickshire": {
+            "whiteTotal": "10.3",
+            "blackTotal": "47.1",
+            "asianTotal": "11.6",
+            "mixedTotal": "57.0",
+            "total": "11.2"
+        },
+        "west-mercia": {
+            "whiteTotal": "10.7",
+            "blackTotal": "35.5",
+            "asianTotal": "24.3",
+            "mixedTotal": "36.3",
+            "total": "11.5"
+        },
+        "west-midlands": {
+            "whiteTotal": "7.3",
+            "blackTotal": "35.9",
+            "asianTotal": "23.7",
+            "mixedTotal": "27.8",
+            "total": "12.2"
+        },
+        "west-yorkshire": {
+            "whiteTotal": "22.4",
+            "blackTotal": "55.5",
+            "asianTotal": "35.5",
+            "mixedTotal": "55.5",
+            "total": "25.1"
+        },
+        "wiltshire": {
+            "whiteTotal": "8.2",
+            "blackTotal": "50.9",
+            "asianTotal": "6.6",
+            "mixedTotal": "23.7",
+            "total": "8.9"
+        },
+        "e&w---met": {
+            "whiteTotal": "14.5",
+            "blackTotal": "48.2",
+            "asianTotal": "24.1",
+            "mixedTotal": "34.2",
+            "total": "16.0"
+        },
+        "england-and-wales": {
+            "whiteTotal": "17.9",
+            "blackTotal": "135.0",
+            "asianTotal": "40.1",
+            "mixedTotal": "51.7",
+            "total": "23.9"
+        }
+    }
+},
+{
+    "year": "2010",
+    "data": {
+        "avon-and-somerset": {
+            "whiteTotal": "8.5",
+            "blackTotal": "39.9",
+            "asianTotal": "4.3",
+            "mixedTotal": "23.3",
+            "total": "11.5"
+        },
+        "bedfordshire": {
+            "whiteTotal": "10.2",
+            "blackTotal": "37.1",
+            "asianTotal": "21.9",
+            "mixedTotal": "40.8",
+            "total": "13.5"
+        },
+        "cambridgeshire": {
+            "whiteTotal": "8.8",
+            "blackTotal": "11.3",
+            "asianTotal": "11.0",
+            "mixedTotal": "12.7",
+            "total": "9.2"
+        },
+        "cheshire": {
+            "whiteTotal": "5.7",
+            "blackTotal": "8.6",
+            "asianTotal": "7.4",
+            "mixedTotal": "7.0",
+            "total": "5.8"
+        },
+        "cleveland": {
+            "whiteTotal": "49.3",
+            "blackTotal": "41.8",
+            "asianTotal": "43.9",
+            "mixedTotal": "37.4",
+            "total": "49.5"
+        },
+        "cumbria": {
+            "whiteTotal": "22.7",
+            "blackTotal": "15.9",
+            "asianTotal": "18.1",
+            "mixedTotal": "14.6",
+            "total": "23.0"
+        },
+        "derbyshire": {
+            "whiteTotal": "8.8",
+            "blackTotal": "23.8",
+            "asianTotal": "18.3",
+            "mixedTotal": "23.5",
+            "total": "9.5"
+        },
+        "devon-&-cornwall": {
+            "whiteTotal": "15.5",
+            "blackTotal": "24.2",
+            "asianTotal": "4.9",
+            "mixedTotal": "16.2",
+            "total": "16.0"
+        },
+        "dorset": {
+            "whiteTotal": "9.8",
+            "blackTotal": "44.3",
+            "asianTotal": "10.4",
+            "mixedTotal": "17.2",
+            "total": "10.3"
+        },
+        "durham": {
+            "whiteTotal": "11.0",
+            "blackTotal": "3.9",
+            "asianTotal": "1.7",
+            "mixedTotal": "3.1",
+            "total": "10.9"
+        },
+        "dyfed-powys": {
+            "whiteTotal": "26.8",
+            "blackTotal": "29.5",
+            "asianTotal": "13.8",
+            "mixedTotal": "18.2",
+            "total": "27.1"
+        },
+        "essex": {
+            "whiteTotal": "5.6",
+            "blackTotal": "13.9",
+            "asianTotal": "5.7",
+            "mixedTotal": "16.1",
+            "total": "6.0"
+        },
+        "gloucestershire": {
+            "whiteTotal": "10.0",
+            "blackTotal": "35.4",
+            "asianTotal": "10.3",
+            "mixedTotal": "29.2",
+            "total": "10.5"
+        },
+        "greater-manchester": {
+            "whiteTotal": "15.1",
+            "blackTotal": "68.1",
+            "asianTotal": "24.2",
+            "mixedTotal": "47.2",
+            "total": "17.5"
+        },
+        "gwent": {
+            "whiteTotal": "16.8",
+            "blackTotal": "82.8",
+            "asianTotal": "76.3",
+            "mixedTotal": "43.2",
+            "total": "18.4"
+        },
+        "hampshire": {
+            "whiteTotal": "11.9",
+            "blackTotal": "47.9",
+            "asianTotal": "12.6",
+            "mixedTotal": "27.9",
+            "total": "13.0"
+        },
+        "hertfordshire": {
+            "whiteTotal": "12.2",
+            "blackTotal": "35.0",
+            "asianTotal": "17.6",
+            "mixedTotal": "35.7",
+            "total": "13.7"
+        },
+        "humberside": {
+            "whiteTotal": "11.6",
+            "blackTotal": "16.0",
+            "asianTotal": "8.6",
+            "mixedTotal": "15.9",
+            "total": "11.8"
+        },
+        "kent": {
+            "whiteTotal": "9.7",
+            "blackTotal": "25.6",
+            "asianTotal": "9.7",
+            "mixedTotal": "16.6",
+            "total": "10.1"
+        },
+        "lancashire": {
+            "whiteTotal": "17.3",
+            "blackTotal": "26.2",
+            "asianTotal": "26.7",
+            "mixedTotal": "23.7",
+            "total": "18.0"
+        },
+        "leicestershire": {
+            "whiteTotal": "23.4",
+            "blackTotal": "94.0",
+            "asianTotal": "37.9",
+            "mixedTotal": "62.1",
+            "total": "27.7"
+        },
+        "lincolnshire": {
+            "whiteTotal": "17.1",
+            "blackTotal": "18.3",
+            "asianTotal": "6.2",
+            "mixedTotal": "11.3",
+            "total": "16.8"
+        },
+        "london": {
+            "whiteTotal": "46.8",
+            "blackTotal": "213.6",
+            "asianTotal": "79.9",
+            "mixedTotal": "104.8",
+            "total": "73.3"
+        },
+        "merseyside": {
+            "whiteTotal": "37.2",
+            "blackTotal": "54.6",
+            "asianTotal": "11.7",
+            "mixedTotal": "32.7",
+            "total": "37.0"
+        },
+        "norfolk": {
+            "whiteTotal": "16.9",
+            "blackTotal": "57.2",
+            "asianTotal": "11.0",
+            "mixedTotal": "23.1",
+            "total": "17.4"
+        },
+        "north-wales": {
+            "whiteTotal": "10.0",
+            "blackTotal": "9.1",
+            "asianTotal": "5.8",
+            "mixedTotal": "9.7",
+            "total": "10.0"
+        },
+        "north-yorkshire": {
+            "whiteTotal": "8.5",
+            "blackTotal": "9.6",
+            "asianTotal": "11.2",
+            "mixedTotal": "8.8",
+            "total": "9.0"
+        },
+        "northamptonshire": {
+            "whiteTotal": "18.5",
+            "blackTotal": "52.9",
+            "asianTotal": "23.8",
+            "mixedTotal": "41.7",
+            "total": "19.6"
+        },
+        "northumbria": {
+            "whiteTotal": "31.8",
+            "blackTotal": "19.8",
+            "asianTotal": "19.0",
+            "mixedTotal": "10.6",
+            "total": "30.9"
+        },
+        "nottinghamshire": {
+            "whiteTotal": "4.6",
+            "blackTotal": "22.6",
+            "asianTotal": "7.6",
+            "mixedTotal": "19.9",
+            "total": "6.0"
+        },
+        "south-wales": {
+            "whiteTotal": "13.9",
+            "blackTotal": "46.0",
+            "asianTotal": "12.7",
+            "mixedTotal": "15.8",
+            "total": "14.1"
+        },
+        "south-yorkshire": {
+            "whiteTotal": "21.4",
+            "blackTotal": "83.2",
+            "asianTotal": "39.5",
+            "mixedTotal": "47.9",
+            "total": "23.9"
+        },
+        "staffordshire": {
+            "whiteTotal": "7.6",
+            "blackTotal": "17.4",
+            "asianTotal": "15.7",
+            "mixedTotal": "21.3",
+            "total": "8.1"
+        },
+        "suffolk": {
+            "whiteTotal": "6.4",
+            "blackTotal": "21.3",
+            "asianTotal": "4.8",
+            "mixedTotal": "18.4",
+            "total": "7.1"
+        },
+        "surrey": {
+            "whiteTotal": "13.5",
+            "blackTotal": "28.5",
+            "asianTotal": "17.4",
+            "mixedTotal": "22.1",
+            "total": "14.3"
+        },
+        "sussex": {
+            "whiteTotal": "11.9",
+            "blackTotal": "26.3",
+            "asianTotal": "14.6",
+            "mixedTotal": "19.9",
+            "total": "13.4"
+        },
+        "thames-valley": {
+            "whiteTotal": "17.6",
+            "blackTotal": "62.3",
+            "asianTotal": "35.6",
+            "mixedTotal": "63.4",
+            "total": "22.0"
+        },
+        "warwickshire": {
+            "whiteTotal": "15.0",
+            "blackTotal": "45.4",
+            "asianTotal": "16.7",
+            "mixedTotal": "59.4",
+            "total": "16.0"
+        },
+        "west-mercia": {
+            "whiteTotal": "10.4",
+            "blackTotal": "27.9",
+            "asianTotal": "22.6",
+            "mixedTotal": "30.0",
+            "total": "11.2"
+        },
+        "west-midlands": {
+            "whiteTotal": "5.0",
+            "blackTotal": "23.5",
+            "asianTotal": "17.5",
+            "mixedTotal": "21.1",
+            "total": "8.5"
+        },
+        "west-yorkshire": {
+            "whiteTotal": "16.1",
+            "blackTotal": "38.2",
+            "asianTotal": "33.9",
+            "mixedTotal": "40.0",
+            "total": "18.8"
+        },
+        "wiltshire": {
+            "whiteTotal": "9.6",
+            "blackTotal": "38.2",
+            "asianTotal": "8.0",
+            "mixedTotal": "18.6",
+            "total": "10.1"
+        },
+        "england-and-wales": {
+            "whiteTotal": "17.9",
+            "blackTotal": "125.7",
+            "asianTotal": "40.2",
+            "mixedTotal": "50.3",
+            "total": "23.6"
+        },
+        "e&w-excl--london": {
+            "whiteTotal": "14.3",
+            "blackTotal": "37.4",
+            "asianTotal": "21.3",
+            "mixedTotal": "29.3",
+            "total": "15.5"
+        }
+    }
+},
+{
+    "year": "2012",
+    "data": {
+        "avon-and-somerset": {
+            "whiteTotal": "13.9",
+            "blackTotal": "55.3",
+            "asianTotal": "12.7",
+            "mixedTotal": "20.9",
+            "total": "17.0"
+        },
+        "bedfordshire": {
+            "whiteTotal": "11.5",
+            "blackTotal": "27.0",
+            "asianTotal": "15.4",
+            "mixedTotal": "21.9",
+            "total": "14.2"
+        },
+        "cambridgeshire": {
+            "whiteTotal": "22.2",
+            "blackTotal": "57.8",
+            "asianTotal": "28.5",
+            "mixedTotal": "35.6",
+            "total": "23.5"
+        },
+        "cheshire": {
+            "whiteTotal": "3.8",
+            "blackTotal": "12.8",
+            "asianTotal": "5.9",
+            "mixedTotal": "2.9",
+            "total": "3.9"
+        },
+        "cleveland": {
+            "whiteTotal": "62.9",
+            "blackTotal": "109.9",
+            "asianTotal": "38.7",
+            "mixedTotal": "35.8",
+            "total": "62.4"
+        },
+        "cumbria": {
+            "whiteTotal": "30.4",
+            "blackTotal": "59.3",
+            "asianTotal": "29.3",
+            "mixedTotal": "21.1",
+            "total": "31.3"
+        },
+        "derbyshire": {
+            "whiteTotal": "15.5",
+            "blackTotal": "47.3",
+            "asianTotal": "26.0",
+            "mixedTotal": "44.6",
+            "total": "16.7"
+        },
+        "devon-&-cornwall": {
+            "whiteTotal": "11.2",
+            "blackTotal": "51.3",
+            "asianTotal": "8.7",
+            "mixedTotal": "14.3",
+            "total": "11.8"
+        },
+        "dorset": {
+            "whiteTotal": "9.8",
+            "blackTotal": "114.4",
+            "asianTotal": "9.9",
+            "mixedTotal": "20.0",
+            "total": "10.4"
+        },
+        "durham": {
+            "whiteTotal": "9.6",
+            "blackTotal": "9.8",
+            "asianTotal": "5.2",
+            "mixedTotal": "3.0",
+            "total": "9.6"
+        },
+        "dyfed-powys": {
+            "whiteTotal": "28.1",
+            "blackTotal": "91.7",
+            "asianTotal": "18.5",
+            "mixedTotal": "18.5",
+            "total": "28.8"
+        },
+        "essex": {
+            "whiteTotal": "2.2",
+            "blackTotal": "8.8",
+            "asianTotal": "2.3",
+            "mixedTotal": "7.1",
+            "total": "2.4"
+        },
+        "gloucestershire": {
+            "whiteTotal": "8.6",
+            "blackTotal": "67.3",
+            "asianTotal": "18.7",
+            "mixedTotal": "27.6",
+            "total": "9.6"
+        },
+        "greater-manchester": {
+            "whiteTotal": "19.8",
+            "blackTotal": "43.1",
+            "asianTotal": "24.3",
+            "mixedTotal": "33.1",
+            "total": "21.6"
+        },
+        "gwent": {
+            "whiteTotal": "13.3",
+            "blackTotal": "41.7",
+            "asianTotal": "45.7",
+            "mixedTotal": "20.4",
+            "total": "14.3"
+        },
+        "hampshire": {
+            "whiteTotal": "18.1",
+            "blackTotal": "74.7",
+            "asianTotal": "18.9",
+            "mixedTotal": "25.4",
+            "total": "19.4"
+        },
+        "hertfordshire": {
+            "whiteTotal": "8.7",
+            "blackTotal": "23.4",
+            "asianTotal": "10.5",
+            "mixedTotal": "30.9",
+            "total": "10.1"
+        },
+        "humberside": {
+            "whiteTotal": "12.6",
+            "blackTotal": "27.7",
+            "asianTotal": "22.8",
+            "mixedTotal": "14.2",
+            "total": "12.9"
+        },
+        "kent": {
+            "whiteTotal": "5.0",
+            "blackTotal": "22.2",
+            "asianTotal": "3.8",
+            "mixedTotal": "7.5",
+            "total": "5.4"
+        },
+        "lancashire": {
+            "whiteTotal": "15.6",
+            "blackTotal": "47.5",
+            "asianTotal": "20.8",
+            "mixedTotal": "18.4",
+            "total": "16.3"
+        },
+        "leicestershire": {
+            "whiteTotal": "8.9",
+            "blackTotal": "35.9",
+            "asianTotal": "12.8",
+            "mixedTotal": "28.5",
+            "total": "10.9"
+        },
+        "lincolnshire": {
+            "whiteTotal": "9.8",
+            "blackTotal": "26.5",
+            "asianTotal": "11.5",
+            "mixedTotal": "12.5",
+            "total": "10.1"
+        },
+        "london": {
+            "whiteTotal": "47.1",
+            "blackTotal": "151.5",
+            "asianTotal": "63.1",
+            "mixedTotal": "69.1",
+            "total": "66.5"
+        },
+        "merseyside": {
+            "whiteTotal": "20.1",
+            "blackTotal": "41.2",
+            "asianTotal": "10.5",
+            "mixedTotal": "16.2",
+            "total": "20.2"
+        },
+        "norfolk": {
+            "whiteTotal": "20.5",
+            "blackTotal": "111.9",
+            "asianTotal": "17.4",
+            "mixedTotal": "24.8",
+            "total": "21.2"
+        },
+        "northamptonshire": {
+            "whiteTotal": "12.8",
+            "blackTotal": "41.1",
+            "asianTotal": "18.8",
+            "mixedTotal": "26.8",
+            "total": "14.1"
+        },
+        "northumbria": {
+            "whiteTotal": "32.7",
+            "blackTotal": "31.3",
+            "asianTotal": "27.0",
+            "mixedTotal": "9.5",
+            "total": "32.1"
+        },
+        "north-wales": {
+            "whiteTotal": "6.0",
+            "blackTotal": "9.9",
+            "asianTotal": "6.3",
+            "mixedTotal": "2.1",
+            "total": "6.0"
+        },
+        "north-yorkshire": {
+            "whiteTotal": "10.2",
+            "blackTotal": "20.3",
+            "asianTotal": "22.2",
+            "mixedTotal": "9.6",
+            "total": "11.1"
+        },
+        "nottinghamshire": {
+            "whiteTotal": "2.5",
+            "blackTotal": "11.7",
+            "asianTotal": "5.4",
+            "mixedTotal": "7.0",
+            "total": "3.2"
+        },
+        "south-wales": {
+            "whiteTotal": "12.1",
+            "blackTotal": "41.6",
+            "asianTotal": "11.8",
+            "mixedTotal": "14.7",
+            "total": "12.5"
+        },
+        "south-yorkshire": {
+            "whiteTotal": "14.3",
+            "blackTotal": "35.4",
+            "asianTotal": "23.8",
+            "mixedTotal": "22.1",
+            "total": "15.4"
+        },
+        "staffordshire": {
+            "whiteTotal": "18.4",
+            "blackTotal": "46.4",
+            "asianTotal": "41.4",
+            "mixedTotal": "38.7",
+            "total": "19.5"
+        },
+        "suffolk": {
+            "whiteTotal": "4.9",
+            "blackTotal": "22.9",
+            "asianTotal": "6.7",
+            "mixedTotal": "11.3",
+            "total": "5.3"
+        },
+        "surrey": {
+            "whiteTotal": "15.1",
+            "blackTotal": "69.5",
+            "asianTotal": "20.3",
+            "mixedTotal": "23.9",
+            "total": "16.5"
+        },
+        "sussex": {
+            "whiteTotal": "17.6",
+            "blackTotal": "95.9",
+            "asianTotal": "28.5",
+            "mixedTotal": "21.9",
+            "total": "18.7"
+        },
+        "thames-valley": {
+            "whiteTotal": "10.4",
+            "blackTotal": "29.4",
+            "asianTotal": "17.6",
+            "mixedTotal": "33.4",
+            "total": "12.9"
+        },
+        "warwickshire": {
+            "whiteTotal": "7.9",
+            "blackTotal": "37.2",
+            "asianTotal": "8.5",
+            "mixedTotal": "35.0",
+            "total": "8.5"
+        },
+        "west-mercia": {
+            "whiteTotal": "8.7",
+            "blackTotal": "48.4",
+            "asianTotal": "37.0",
+            "mixedTotal": "27.7",
+            "total": "9.8"
+        },
+        "west-midlands": {
+            "whiteTotal": "10.5",
+            "blackTotal": "38.4",
+            "asianTotal": "23.4",
+            "mixedTotal": "23.2",
+            "total": "15.5"
+        },
+        "west-yorkshire": {
+            "whiteTotal": "19.9",
+            "blackTotal": "38.1",
+            "asianTotal": "28.2",
+            "mixedTotal": "36.0",
+            "total": "21.9"
+        },
+        "wiltshire": {
+            "whiteTotal": "7.4",
+            "blackTotal": "51.1",
+            "asianTotal": "5.4",
+            "mixedTotal": "13.1",
+            "total": "8.0"
+        },
+        "e&w-excl--london": {
+            "whiteTotal": "14.1",
+            "blackTotal": "38.8",
+            "asianTotal": "20.4",
+            "mixedTotal": "23.2",
+            "total": "15.3"
+        },
+        "england-and-wales": {
+            "whiteTotal": "17.4",
+            "blackTotal": "104.2",
+            "asianTotal": "36.4",
+            "mixedTotal": "38.5",
+            "total": "22.7"
+        }
+    }
+},
+{
+    "year": "2014",
+    "data": {
+        "e&w-excl--london": {
+            "whiteTotal": "12.8",
+            "blackTotal": "33.8",
+            "asianTotal": "16.0",
+            "mixedTotal": "21.9",
+            "total": "13.3"
+        },
+        "england-and-wales": {
+            "whiteTotal": "14.6",
+            "blackTotal": "65.2",
+            "asianTotal": "23.0",
+            "mixedTotal": "28.4",
+            "total": "16.9"
+        },
+        "avon-and-somerset": {
+            "whiteTotal": "15.6",
+            "blackTotal": "66.9",
+            "asianTotal": "16.6",
+            "mixedTotal": "31.3",
+            "total": "16.7"
+        },
+        "bedfordshire": {
+            "whiteTotal": "9.2",
+            "blackTotal": "20.8",
+            "asianTotal": "13.5",
+            "mixedTotal": "17.5",
+            "total": "10.3"
+        },
+        "cambridgeshire": {
+            "whiteTotal": "16.6",
+            "blackTotal": "55.8",
+            "asianTotal": "22.7",
+            "mixedTotal": "27.5",
+            "total": "17.3"
+        },
+        "cheshire": {
+            "whiteTotal": "7.0",
+            "blackTotal": "25.3",
+            "asianTotal": "12.0",
+            "mixedTotal": "15.1",
+            "total": "7.2"
+        },
+        "cleveland": {
+            "whiteTotal": "50.6",
+            "blackTotal": "117.6",
+            "asianTotal": "39.8",
+            "mixedTotal": "27.2",
+            "total": "50.2"
+        },
+        "cumbria": {
+            "whiteTotal": "21.1",
+            "blackTotal": "37.0",
+            "asianTotal": "22.9",
+            "mixedTotal": "29.8",
+            "total": "21.4"
+        },
+        "derbyshire": {
+            "whiteTotal": "6.1",
+            "blackTotal": "16.1",
+            "asianTotal": "13.6",
+            "mixedTotal": "16.4",
+            "total": "6.9"
+        },
+        "devon-and-cornwall": {
+            "whiteTotal": "8.6",
+            "blackTotal": "58.4",
+            "asianTotal": "9.1",
+            "mixedTotal": "12.9",
+            "total": "8.8"
+        },
+        "dorset": {
+            "whiteTotal": "11.6",
+            "blackTotal": "170.5",
+            "asianTotal": "15.8",
+            "mixedTotal": "30.2",
+            "total": "12.4"
+        },
+        "durham": {
+            "whiteTotal": "22.1",
+            "blackTotal": "21.8",
+            "asianTotal": "10.0",
+            "mixedTotal": "6.9",
+            "total": "21.8"
+        },
+        "dyfed-powys": {
+            "whiteTotal": "19.3",
+            "blackTotal": "79.9",
+            "asianTotal": "18.5",
+            "mixedTotal": "33.3",
+            "total": "19.5"
+        },
+        "essex": {
+            "whiteTotal": "5.3",
+            "blackTotal": "17.9",
+            "asianTotal": "7.0",
+            "mixedTotal": "17.1",
+            "total": "5.7"
+        },
+        "gloucestershire": {
+            "whiteTotal": "7.9",
+            "blackTotal": "43.0",
+            "asianTotal": "7.8",
+            "mixedTotal": "18.2",
+            "total": "8.4"
+        },
+        "greater-manchester": {
+            "whiteTotal": "10.5",
+            "blackTotal": "25.4",
+            "asianTotal": "15.4",
+            "mixedTotal": "24.5",
+            "total": "11.4"
+        },
+        "gwent": {
+            "whiteTotal": "7.6",
+            "blackTotal": "14.7",
+            "asianTotal": "13.5",
+            "mixedTotal": "5.7",
+            "total": "7.7"
+        },
+        "hampshire": {
+            "whiteTotal": "16.1",
+            "blackTotal": "76.0",
+            "asianTotal": "14.7",
+            "mixedTotal": "27.2",
+            "total": "16.6"
+        },
+        "hertfordshire": {
+            "whiteTotal": "20.9",
+            "blackTotal": "55.7",
+            "asianTotal": "29.4",
+            "mixedTotal": "44.2",
+            "total": "22.9"
+        },
+        "humberside": {
+            "whiteTotal": "7.9",
+            "blackTotal": "16.7",
+            "asianTotal": "12.7",
+            "mixedTotal": "11.4",
+            "total": "8.0"
+        },
+        "kent": {
+            "whiteTotal": "5.3",
+            "blackTotal": "29.6",
+            "asianTotal": "5.3",
+            "mixedTotal": "8.0",
+            "total": "5.9"
+        },
+        "lancashire": {
+            "whiteTotal": "12.1",
+            "blackTotal": "23.9",
+            "asianTotal": "14.1",
+            "mixedTotal": "10.0",
+            "total": "12.2"
+        },
+        "leicestershire": {
+            "whiteTotal": "4.3",
+            "blackTotal": "18.8",
+            "asianTotal": "5.7",
+            "mixedTotal": "10.9",
+            "total": "4.9"
+        },
+        "lincolnshire": {
+            "whiteTotal": "13.8",
+            "blackTotal": "49.1",
+            "asianTotal": "11.2",
+            "mixedTotal": "20.0",
+            "total": "13.9"
+        },
+        "london": {
+            "whiteTotal": "30.6",
+            "blackTotal": "88.0",
+            "asianTotal": "34.6",
+            "mixedTotal": "41.4",
+            "total": "38.4"
+        },
+        "merseyside": {
+            "whiteTotal": "29.1",
+            "blackTotal": "61.6",
+            "asianTotal": "17.1",
+            "mixedTotal": "29.4",
+            "total": "29.1"
+        },
+        "norfolk": {
+            "whiteTotal": "16.6",
+            "blackTotal": "73.5",
+            "asianTotal": "24.1",
+            "mixedTotal": "24.1",
+            "total": "17.0"
+        },
+        "north-wales": {
+            "whiteTotal": "8.4",
+            "blackTotal": "12.2",
+            "asianTotal": "5.8",
+            "mixedTotal": "9.0",
+            "total": "8.4"
+        },
+        "north-yorkshire": {
+            "whiteTotal": "10.5",
+            "blackTotal": "61.2",
+            "asianTotal": "14.3",
+            "mixedTotal": "9.2",
+            "total": "10.8"
+        },
+        "northamptonshire": {
+            "whiteTotal": "6.8",
+            "blackTotal": "20.3",
+            "asianTotal": "9.5",
+            "mixedTotal": "18.3",
+            "total": "7.4"
+        },
+        "northumbria": {
+            "whiteTotal": "30.3",
+            "blackTotal": "41.4",
+            "asianTotal": "26.3",
+            "mixedTotal": "17.7",
+            "total": "29.8"
+        },
+        "nottinghamshire": {
+            "whiteTotal": "4.8",
+            "blackTotal": "20.9",
+            "asianTotal": "6.8",
+            "mixedTotal": "8.5",
+            "total": "5.3"
+        },
+        "south-wales": {
+            "whiteTotal": "11.1",
+            "blackTotal": "33.8",
+            "asianTotal": "10.7",
+            "mixedTotal": "16.7",
+            "total": "11.3"
+        },
+        "south-yorkshire": {
+            "whiteTotal": "16.9",
+            "blackTotal": "34.3",
+            "asianTotal": "31.1",
+            "mixedTotal": "43.7",
+            "total": "17.9"
+        },
+        "staffordshire": {
+            "whiteTotal": "14.1",
+            "blackTotal": "43.2",
+            "asianTotal": "26.6",
+            "mixedTotal": "43.5",
+            "total": "14.9"
+        },
+        "suffolk": {
+            "whiteTotal": "7.3",
+            "blackTotal": "13.5",
+            "asianTotal": "27.4",
+            "mixedTotal": "18.9",
+            "total": "7.8"
+        },
+        "surrey": {
+            "whiteTotal": "13.7",
+            "blackTotal": "73.2",
+            "asianTotal": "11.7",
+            "mixedTotal": "34.3",
+            "total": "14.5"
+        },
+        "sussex": {
+            "whiteTotal": "10.7",
+            "blackTotal": "83.5",
+            "asianTotal": "16.4",
+            "mixedTotal": "16.1",
+            "total": "11.5"
+        },
+        "thames-valley": {
+            "whiteTotal": "9.3",
+            "blackTotal": "26.9",
+            "asianTotal": "14.7",
+            "mixedTotal": "26.0",
+            "total": "10.5"
+        },
+        "warwickshire": {
+            "whiteTotal": "9.1",
+            "blackTotal": "55.7",
+            "asianTotal": "12.3",
+            "mixedTotal": "37.3",
+            "total": "9.9"
+        },
+        "west-mercia": {
+            "whiteTotal": "11.9",
+            "blackTotal": "86.0",
+            "asianTotal": "45.1",
+            "mixedTotal": "33.1",
+            "total": "13.0"
+        },
+        "west-midlands": {
+            "whiteTotal": "7.1",
+            "blackTotal": "20.5",
+            "asianTotal": "15.0",
+            "mixedTotal": "16.7",
+            "total": "9.5"
+        },
+        "west-yorkshire": {
+            "whiteTotal": "16.4",
+            "blackTotal": "23.7",
+            "asianTotal": "22.6",
+            "mixedTotal": "21.0",
+            "total": "17.1"
+        },
+        "wiltshire": {
+            "whiteTotal": "10.0",
+            "blackTotal": "64.6",
+            "asianTotal": "10.3",
+            "mixedTotal": "21.4",
+            "total": "10.6"
+        }
+    }
+}]

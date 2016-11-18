@@ -1,0 +1,22 @@
+{
+  "name": "race-criminal-justice",
+  "version": "1.0.0",
+  "description": "Race and Criminal Justice in the UK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Kohler",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-browser-sync": "*",
+    "csv-parser": "*",
+    "togeojson": "*",
+    "geojson-merge": "*",
+    "xmldom": "*"
+  }
+}

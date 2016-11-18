@@ -1,0 +1,82 @@
+svg {
+    font-family: $font-mono;
+    font-weight: 500;
+    * {
+        shape-rendering: geometricPrecision;
+        text-rendering: optimizeLegibility;
+    }
+}
+.axis {
+    path {
+        fill: none;
+        stroke: $lightgray;
+        stroke-width: 1px;
+    }
+
+    text {
+        fill: $black;
+        font-size: 12px;
+    }
+}
+
+.legend {
+    text {
+        font-size: 11px;
+    }
+}
+
+.line, .legend line {
+  fill: none;
+  stroke-width: 3px;
+  stroke: $lightgray;
+}
+
+.blackTotal{ 
+    path, line {
+        stroke: $blue;
+    }
+    circle, text {
+        fill: $blue;
+    }
+}
+
+.whiteTotal {
+    path, line {
+        stroke: $yellow;
+    }
+    circle, text {
+        fill: $yellow;
+    }
+}
+
+.difference {
+    line {
+        stroke: $black;
+        stroke-width: 1px;
+        stroke-dasharray: 2,3;
+    }
+    text {
+        font-size: 14px;
+    }
+}
+
+circle {
+    stroke: white;
+    stroke-width: 2px;
+    fill: $lightgray;
+}
+
+.map {
+    path {
+        fill: $lightgray;
+        stroke: white;
+        stroke-width: .5px;
+        &[style='undefined']{
+            fill: red !important;
+        }
+        &:hover {
+            opacity: .8;
+            cursor: pointer;
+        }
+    }
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>2016 Presidential Election Twitter Sentiment</title>
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <script src='./app.js'></script>
+    <script>
+  (function(d) {
+    var config = {
+      kitId: 'smy5ybc',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+</head>
+
+<body>
+    <header class="site-header">
+        <h1 class='site-title'>Race and Criminal Justice in the UK</h1>
+    </header>
+    <main class="site-content">
+        <section class="filters">
+            <nav id='areas'>
+            </nav>
+            <nav>
+                <a href="/sources">Sources</a>
+            </nav>
+        </section>
+        <section class="content">
+            <h2>Black people in England and Wales are <em>4.5 times</em> more likely to be stopped and searched by police than
+                white people.</h2>
+            <div id="map" class='map'>
+                <div class="copy">
+                    <table id='police-forces-table'>
+                        <thead>
+                            <td>Police Force</td>
+                            <td>Times more likely</td>
+                        </thead>
+                    </table>
+                </div>
+                <div id="tooltip" class="tooltip">
+                    <h3>Bedfordshire</h3>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <h2>Stop and Searches by 1.000 Population</h2>
+            <div id="stops"></div>
+            <h2>Arrests following Stop and Search</h2>
+
+            <h2>Minorities in Prison</h2>
+            <h3>Prison Population</h3>
+            <h3>Deaths in Prison</h3>
+        </section>
+    </main>
+    <footer class="site-footer">
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+{
+    "meta": {
+        "description": "Stop and Searches per 1000 population, by self-defined ethnicity, by location"
+    },
+    "data": {
+        "2007_2008": {
+            "england_wales": {
+                "white_total": 16.5,
+                "black_total": 108.5,
+                "asian_total": 33.5,
+                "mixed_total": 42.2,
+                "chinese_other": 17.7,
+                "total": 21.7
+            },
+            "london": {
+                "white_total": 36.3,
+                "black_total": 164.2,
+                "asian_total": 55.5,
+                "mixed_total": 66.9,
+                "chinese_other": 39.4,
+                "total": 60.5
+            }
+        },
+        "2008_2009": {
+            "england_wales": {
+                "white_total": 17.9,
+                "black_total": 135,
+                "asian_total": 40.1,
+                "mixed_total": 51.7,
+                "chinese_other": 20.2,
+                "total": 23.9
+            },
+            "london": {
+                "white_total": 46.9,
+                "black_total": 209.9,
+                "asian_total": 70.7,
+                "mixed_total": 93.4,
+                "chinese_other": 47.5,
+                "total": 73.8
+            }
+        },
+        "2009_2010": {
+            "england_wales": {
+                "white_total": 18,
+                "black_total": 126,
+                "asian_total": 40,
+                "mixed_total": 50,
+                "chinese_other": 18,
+                "total": 24
+            },
+            "london": {
+                "white_total": 47,
+                "black_total": 214,
+                "asian_total": 80,
+                "mixed_total": 105,
+                "chinese_other": 44,
+                "total": 73
+            }
+        },
+        "2011_2012": {
+            "england_wales": {
+                "white_total": 17.4,
+                "black_total": 104.2,
+                "asian_total": 36.4,
+                "mixed_total": 38.5,
+                "chinese_other": 17.6,
+                "total": 22.7
+            },
+            "london": {
+                "white_total": 47.1,
+                "black_total": 151.5,
+                "asian_total": 63.1,
+                "mixed_total": 69.1,
+                "chinese_other": 32.8,
+                "total": 66.5
+            }
+        }
+    }
+}
